@@ -155,7 +155,9 @@ body {
   width: 100px;
   height: 100px;
   object-fit: cover;
+
   border-radius: 50%;
+  transform: translateY(5px);
 }
 
 .name {
